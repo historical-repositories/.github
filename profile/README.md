@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+
+Welcome to a treasure trove where history and innovation converge. We meticulously collect repositories of significant projects, reconstructing their source code evolution.
+
+Join us on a journey through time and code! 🚀
 
 <!--
 
@@ -11,4 +15,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<img width="768" src="https://github.com/historical-repositories/.github/assets/5360877/0163ee80-bebf-410f-b21c-6ded76d82e2b" />
+<br>
+<br>
+<p align="center">
+  <img width="800" src="https://github.com/historical-repositories/.github/assets/5360877/0163ee80-bebf-410f-b21c-6ded76d82e2b">
+</p>
